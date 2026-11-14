@@ -20,12 +20,10 @@ Conductor is a **development preview**, with capabilities undergoing live qualif
 
 Our wider work is introduced on its own public websites. These are projects in development, not claims of finished products.
 
-| Project | Direction | Public website |
-| --- | --- | --- |
-| **Prism** | A programming language being built around strong types, ownership, time-aware state and causal understanding. | [prism-lang.io](https://prism-lang.io/) |
-| **Sonde** | Audio inspection, signal analysis and research into understanding and shaping sound. | [Explore Sonde](https://sonde.ioncascade.com/) |
-| **Stormwrought** | An original medieval action game, with character modelling, animation and a development journal. | [Explore Stormwrought](https://stormwrought.ioncascade.com/) |
-| **Temporal Market Intelligence** | Charting and evidence-led market research tools. | [Development site](https://tmi-dev.ioncascade.com/) |
+- **[Prism](https://prism-lang.io/)** — A programming language being built around strong types, ownership, time-aware state and causal understanding.
+- **[Sonde](https://sonde.ioncascade.com/)** — Audio inspection, signal analysis and research into understanding and shaping sound.
+- **[Stormwrought](https://stormwrought.ioncascade.com/)** — An original medieval action game, with character modelling, animation and a development journal.
+- **[Temporal Market Intelligence](https://tmi-dev.ioncascade.com/)** — Charting and evidence-led market research tools.
 
 Most studio development is private. The links above lead to public project websites, not source repositories. Conductor is our public open-source project.
 
