@@ -12,21 +12,29 @@ Tools that connect creative software to MCP-compatible clients, independently ma
 
 ### Conductor · Apple Logic Pro
 
+[![Ion Cascade Conductor — a native bridge between your ideas and Logic Pro](https://raw.githubusercontent.com/ion-cascade/conductor/main/docs/assets/conductor-banner.svg)](https://github.com/ion-cascade/conductor)
+
+[![Latest Conductor release](https://img.shields.io/github/v/release/ion-cascade/conductor?label=latest%20release&sort=date&color=2b47da)](https://github.com/ion-cascade/conductor/releases/latest)
+
 **[Ion Cascade Conductor](https://github.com/ion-cascade/conductor)** connects MCP-compatible tools to Apple Logic Pro, bringing session inspection, DAW control and structured feedback into music workflows.
 
 We’ve taken on its ongoing development and maintenance, building on the original contributors’ work. Our focus is practical workflows, reliable state and checking what actually changed—not just whether a command was accepted.
 
-Conductor is a **development preview**, with capabilities undergoing live qualification. See its README for tested workflows, current limitations, setup and contributor attribution.
+Actively maintained, with versioned releases. See its README and compatibility documentation for supported workflows, current limitations, setup and contributor attribution.
 
-[Explore Conductor →](https://github.com/ion-cascade/conductor) · [Report an issue](https://github.com/ion-cascade/conductor/issues)
+[Explore Conductor →](https://github.com/ion-cascade/conductor) · [Latest release](https://github.com/ion-cascade/conductor/releases/latest) · [Report an issue](https://github.com/ion-cascade/conductor/issues)
 
 ### Stereograph · Blender
 
+[![Ion Cascade Stereograph — spatial inspection and editing for Blender](https://raw.githubusercontent.com/ion-cascade/stereograph/main/docs/assets/stereograph-banner.svg)](https://github.com/ion-cascade/stereograph)
+
+[![Latest Stereograph release](https://img.shields.io/github/v/release/ion-cascade/stereograph?label=latest%20release&sort=date&color=116d72)](https://github.com/ion-cascade/stereograph/releases/latest)
+
 **[Ion Cascade Stereograph](https://github.com/ion-cascade/stereograph)** is an independent MCP server and Blender add-on for scene inspection, editing and spatial verification.
 
-It connects MCP clients to live and background Blender, with tools for scene queries, screenshots, rendering and evaluated-geometry checks. Rig-aware editing is being developed through bounded, verified workflows.
+It connects MCP clients to live and background Blender, with tools for scene queries, screenshots, rendering, evaluated-geometry checks and bounded rig-aware editing workflows.
 
-See its README, releases and compatibility documentation for available tools, supported workflows and current limitations.
+Actively maintained, with versioned releases. See its README, releases and compatibility documentation for available tools, supported workflows and current limitations.
 
 [Explore Stereograph →](https://github.com/ion-cascade/stereograph) · [Latest release](https://github.com/ion-cascade/stereograph/releases/latest) · [Report an issue](https://github.com/ion-cascade/stereograph/issues)
 
