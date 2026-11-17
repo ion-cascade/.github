@@ -6,7 +6,11 @@ We’re an independent software development studio working across audio, games, 
 
 **[Explore the studio →](https://ioncascade.com/)**
 
-## Open source · Conductor
+## Open Source
+
+Tools that connect creative software to MCP-compatible clients, independently maintained by Ion Cascade.
+
+### Conductor · Apple Logic Pro
 
 **[Ion Cascade Conductor](https://github.com/ion-cascade/conductor)** connects MCP-compatible tools to Apple Logic Pro, bringing session inspection, DAW control and structured feedback into music workflows.
 
@@ -15,6 +19,16 @@ We’ve taken on its ongoing development and maintenance, building on the origin
 Conductor is a **development preview**, with capabilities undergoing live qualification. See its README for tested workflows, current limitations, setup and contributor attribution.
 
 [Explore Conductor →](https://github.com/ion-cascade/conductor) · [Report an issue](https://github.com/ion-cascade/conductor/issues)
+
+### Stereograph · Blender
+
+**[Ion Cascade Stereograph](https://github.com/ion-cascade/stereograph)** is an independent MCP server and Blender add-on for scene inspection, editing and spatial verification.
+
+It connects MCP clients to live and background Blender, with tools for scene queries, screenshots, rendering and evaluated-geometry checks. Rig-aware editing is being developed through bounded, verified workflows.
+
+See its README, releases and compatibility documentation for available tools, supported workflows and current limitations.
+
+[Explore Stereograph →](https://github.com/ion-cascade/stereograph) · [Latest release](https://github.com/ion-cascade/stereograph/releases/latest) · [Report an issue](https://github.com/ion-cascade/stereograph/issues)
 
 ## From the studio
 
@@ -25,7 +39,7 @@ Our wider work is introduced on its own public websites. These are projects in d
 - **[Stormwrought](https://stormwrought.ioncascade.com/)** — An original medieval action game, with character modelling, animation and a development journal.
 - **[Temporal Market Intelligence](https://tmi-dev.ioncascade.com/)** — Charting and evidence-led market research tools.
 
-Most studio development is private. The links above lead to public project websites, not source repositories. Conductor is our public open-source project.
+Most studio development is private. The links above lead to public project websites, not source repositories. Conductor and Stereograph are our public open-source projects.
 
 ## Work with us
 
